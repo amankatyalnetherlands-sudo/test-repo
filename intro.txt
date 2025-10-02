@@ -1,2 +1,3 @@
 Hello ("This is my first git project")
-Updated on Git Hub
+//Updated on Git Hub
+Deleted on local 
